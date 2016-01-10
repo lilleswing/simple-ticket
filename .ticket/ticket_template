@@ -1,4 +1,5 @@
-Title:
-Owner:
-Status:
-Details:
+Title: Place a one line title here
+Owner: example@gmail.com
+Status: Open|Closed|Progress|Ready
+
+Multiline comments describing the ticket
