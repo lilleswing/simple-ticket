@@ -1,0 +1,5 @@
+Title: Delete Closed Tickets Periodically
+Owner: lilleswing@gmail.com
+Status: Ready
+
+How to do this without race conditions
