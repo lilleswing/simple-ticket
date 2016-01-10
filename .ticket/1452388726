@@ -1,0 +1,5 @@
+Title: Validate in git root when running ticket
+Owner: lilleswing@gmail.com
+Status: Ready
+
+Exit with message "Must run from git root" if attempted

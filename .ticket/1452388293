@@ -1,0 +1,5 @@
+Title: Ticket With Single String creates it as the title
+Owner: lilleswing@gmail.com
+Status: Ready
+
+A single string passed to ticket should set the string as the title
